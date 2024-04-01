@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "751557411674",
+    "project_id": "hr-managementapp",
+    "storage_bucket": "hr-managementapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751557411674:android:71cbe8d94b6deb459b6963",
+        "android_client_info": {
+          "package_name": "com.spine.staffTrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751557411674-2ugtmtjc2hmf0j6mou1pe2g8to1dk29t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuhmyyluhrcC5LkMaugCRl2XkuYc_hmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751557411674-2ugtmtjc2hmf0j6mou1pe2g8to1dk29t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:751557411674:android:bf8ce4511e3135919b6963",
+        "android_client_info": {
+          "package_name": "com.spine.staffTrackAdmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "751557411674-2ugtmtjc2hmf0j6mou1pe2g8to1dk29t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYuhmyyluhrcC5LkMaugCRl2XkuYc_hmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "751557411674-2ugtmtjc2hmf0j6mou1pe2g8to1dk29t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
